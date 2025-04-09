@@ -26,7 +26,7 @@ A high-performance Rust application for checking Turnitin credentials in paralle
 - Cargo (Rust's package manager)
 - Git (for cloning the repository)
 
-## ��️ Installation
+## ⏬ Installation
 
 ### Precompiled Binaries (Recommended)
 
