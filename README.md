@@ -2,8 +2,8 @@
 
 [![Rust](https://img.shields.io/badge/Rust-1.75+-blue.svg)](https://www.rust-lang.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Build Status](https://img.shields.io/github/workflow/status/yourusername/turnitin-checker/Rust)](https://github.com/yourusername/turnitin-checker/actions)
-[![Latest Release](https://img.shields.io/github/v/release/yourusername/turnitin-checker)](https://github.com/yourusername/turnitin-checker/releases)
+[![Build Status](https://img.shields.io/github/workflow/status/vuelym/turnitin-checker/Rust)](https://github.com/vuelym/turnitin-checker/actions)
+[![Latest Release](https://img.shields.io/github/v/release/vuelym/turnitin-checker)](https://github.com/vuelym/turnitin-checker/releases)
 
 A high-performance Rust application for checking Turnitin credentials in parallel. This application features:
 
